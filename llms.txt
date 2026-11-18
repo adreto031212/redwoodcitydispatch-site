@@ -1,0 +1,24 @@
+# Redwood City Dispatch
+
+> The Redwood City Dispatch is a free weekly email newsletter about Redwood City, San Carlos and Belmont, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Redwood City, San Carlos and Belmont](https://www.redwoodcitydispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.redwoodcitydispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.redwoodcitydispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Downtown Redwood City](https://www.redwoodcitydispatch.com/downtown-redwood-city/): Downtown along Broadway and Middlefield Road, with Courthouse Square, the San Mateo County History Museum in the 1910 courthouse, City Hall, the main library and the Caltrain station.
+- [Redwood Shores](https://www.redwoodcitydispatch.com/redwood-shores/): The bayfront district east of Highway 101 along Marine Parkway and Redwood Shores Parkway, with its lagoons, Marlin Park, the Redwood Shores Branch Library and San Francisco Bay Trail segments.
+- [Mount Carmel](https://www.redwoodcitydispatch.com/mount-carmel/): Streets around King Street and Hopkins Avenue, with Stafford Park at their corner, its reservable picnic area and its seasonal water feature.
+- [Roosevelt](https://www.redwoodcitydispatch.com/roosevelt/): Streets along Roosevelt Avenue near Alameda de las Pulgas, with Red Morton Community Park, its sports fields and pool, and the Red Morton Community Center.
+- [Farm Hill](https://www.redwoodcitydispatch.com/farm-hill/): Hillside streets along Farm Hill Boulevard and Jefferson Avenue, with Stulsaft Park's 42 acres of trails and off-leash dog area, and Garrett Park on Glenwood Avenue.
+- [Woodside Plaza](https://www.redwoodcitydispatch.com/woodside-plaza/): Streets along Woodside Road near Alameda de las Pulgas and Valota Road, with Maddux Park at Maddux Drive and Kensington Road and its summer water feature.
+- [Friendly Acres](https://www.redwoodcitydispatch.com/friendly-acres/): Streets along Bay Road and Fifth Avenue, with Andrew Spinas Park at Second Avenue and Bay Road and its pickleball and tennis courts.
+- [Redwood Village](https://www.redwoodcitydispatch.com/redwood-village/): Streets along Woodside Road near Spring Street and Hilton Street, with Hoover Park filling the block between Spring Street, Charter Street, Woodside Road and Hilton Street.
+- [North Fair Oaks](https://www.redwoodcitydispatch.com/north-fair-oaks/): The unincorporated county area along Middlefield Road between Redwood City and Atherton, with the North Fair Oaks Library and the Fair Oaks Community Center on Middlefield Road.
+- [Downtown San Carlos](https://www.redwoodcitydispatch.com/downtown-san-carlos/): San Carlos's downtown along Laurel Street, with City Hall and the San Carlos Library on Elm Street, the Caltrain station, and nearby Burton Park on Chestnut Street.
+- [San Carlos Hills](https://www.redwoodcitydispatch.com/san-carlos-hills/): Hillside streets west of Alameda de las Pulgas along Brittan Avenue and Melendy Drive, with Highlands Park and the open-space trails of Big Canyon Park.
+- [Belmont Village](https://www.redwoodcitydispatch.com/belmont-village/): Belmont's downtown around El Camino Real and Ralston Avenue, with City Hall and Twin Pines Park on Twin Pines Lane and the Belmont Caltrain station.
+- [Carlmont](https://www.redwoodcitydispatch.com/carlmont/): Belmont's western hills around Ralston Avenue and Alameda de las Pulgas, with the Carlmont Village Shopping Center, the Belmont Library and the Carlmont Drive trailhead into Water Dog Lake Park.
+- [Homeview and Sterling Downs](https://www.redwoodcitydispatch.com/homeview-sterling-downs/): The Belmont neighborhoods east of El Camino Real on both sides of Ralston Avenue, along Old County Road near the Belmont Caltrain station.
